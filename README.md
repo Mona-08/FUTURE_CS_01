@@ -4,7 +4,7 @@ Cyber Security Internship Task 1 – Security analysis and vulnerability assessm
 
 ## 📌 Website Tested
 
-http://testphp.vulnweb.com
+(http://zero.webappsecurity.com/)
 
 ## 🎯 Scope
 
